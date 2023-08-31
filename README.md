@@ -1,4 +1,4 @@
-# Bem Vindo👋, Me chamo Alex Aparecido 
+# 👋Bem Vindo, Me chamo Alex 
 Fala Devs!👍
 
 Agradeço por ter a curiosidade de saber o que eu faço, atualmente sou estudante de Análise e Desenvolvimento de Sistemas com foco em Front-End, mas pretendo seguir a carreira de Full-Stack 💻. Procuro uma oportunidade para iniciar minha carreira de desenvolvedor Front-End.
