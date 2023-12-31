@@ -1,7 +1,7 @@
 # 👋Bem Vindo, Me chamo Alex 
 Fala Devs!👍
 
-Agradeço por ter a curiosidade de saber o que eu faço, atualmente sou estudante de Análise e Desenvolvimento de Sistemas com foco em Front-End, mas pretendo seguir a carreira de Full-Stack 💻. Embaixo há algumas das minha habilidades.
+Agradeço por ter a curiosidade de saber o que eu faço, atualmente sou estudante de Análise e Desenvolvimento de Sistemas com foco em Front-End, mas pretendo seguir a carreira de Full-Stack 💻. Embaixo há algumas das minhas habilidades.
 
 ## Hard Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
