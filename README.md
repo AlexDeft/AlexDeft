@@ -21,6 +21,9 @@ Agradeço por ter a curiosidade de saber o que eu faço, atualmente sou estudant
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexDeft&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<br>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlexDeft&theme=midnight-purple&hide_border=false)
+<br>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexDeft&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Contacts
